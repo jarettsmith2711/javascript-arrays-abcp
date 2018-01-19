@@ -1,3 +1,5 @@
+pop
+
 # JavaScript Arrays
 
 ## Objectives
